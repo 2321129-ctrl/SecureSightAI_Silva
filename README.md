@@ -35,7 +35,7 @@ To build the physical deployment loop, the following hardware components are req
 
 ---
 
-## Software Setup & Environment
+## Software Setup 
 
 ### Integrated Development Environments (IDEs)
 
